@@ -1,1 +1,2 @@
-Example for git
+Example for git command.
+Switched to other branch
